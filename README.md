@@ -7,3 +7,4 @@
 ###### siehste kaum
 
 
+Tipp: erst adde, dann commiten, dann pushen
