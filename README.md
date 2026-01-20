@@ -6,5 +6,5 @@
 ##### winzisch
 ###### siehste kaum
 
-
-Tipp: erst adde, dann commiten, dann pushen
+----------
+Tipp: erst adden, dann commiten, dann pushen
