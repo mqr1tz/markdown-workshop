@@ -7,4 +7,4 @@
 ###### siehste kaum
 
 ----------
-Tipp: erst adden, dann commiten, dann pushen
+Tipp: erst adden, dann commiten, dann pushen :relaxed:
